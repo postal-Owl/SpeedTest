@@ -32,3 +32,11 @@ void SpeedTest(const int& N, Tasks... tasks) {
 }
 
 #endif // SPEEDTEST_H
+
+
+
+
+
+//  /\__/\
+// (=^x^=)
+//  (")(")_/
